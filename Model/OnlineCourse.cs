@@ -8,7 +8,7 @@ namespace Model
 {
     public class OnlineCourse :Course
     {
-        //trang xinh vl123
+        //trang xinh vãi
         public string LinkMat { get; set; }
 
         public OnlineCourse(string linkMat)
