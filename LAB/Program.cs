@@ -1,4 +1,5 @@
 ﻿using Controller;
+// lô con cặc
 using Model;
 
 internal class Program
