@@ -8,7 +8,7 @@ namespace Model
 {
     public class Course
     {
-        //trang xinh 3
+        //trang xinh vl
         public int ID { get; set; }
         public string Title { get; set; }
         public DateTime StartDate { get; set; }
